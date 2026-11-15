@@ -14,5 +14,9 @@ GET /info?uid=387531739
 ```
 4. http://78.154.103.23:12698/ - FF JWT
 ```
-GET /token?uid=123456789&password=ABCD
+GET /token?uid=387531739&password=ABCD
+```
+5. http://78.154.103.36:13487/ - FF Free Like
+```
+GET /freelike?uid=123456789&region=bd&key=mm
 ```
