@@ -19,4 +19,5 @@ GET /token?uid=387531739&password=ABCD
 5. http://78.154.103.36:13487/ - FF Free Like
 ```
 GET /freelike?uid=123456789&region=bd&key=mm
+GET /token_info
 ```
